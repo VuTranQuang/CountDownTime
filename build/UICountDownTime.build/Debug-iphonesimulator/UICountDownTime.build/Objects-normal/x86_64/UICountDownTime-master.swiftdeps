@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "b5b4aa98e83936d927d60b419441ffef"
+build_time: [1647593032, 651667000]
+inputs:
+  "/Users/vu/Desktop/ManagerProject/UICountDownTime/UICountDownTime/ViewController.swift": [1604916299, 780458828]
+  "/Users/vu/Desktop/ManagerProject/UICountDownTime/UICountDownTime/AppDelegate.swift": [1604896145, 622078036]
+  "/Users/vu/Desktop/ManagerProject/UICountDownTime/UICountDownTime/SceneDelegate.swift": [1604896145, 626696655]
